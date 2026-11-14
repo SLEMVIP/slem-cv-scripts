@@ -1,0 +1,102 @@
+{
+  "format": "slem-cache-v2",
+  "mask": "xor-rolling",
+  "seed": 109,
+  "filename": "SLEM-CV-Setup.exe",
+  "total_bytes": 1171968,
+  "part_count": 18,
+  "chunk_bytes": 65535,
+  "sha256": "2f9ad261476154c1a709ccd628b6f0e02a07824995adcad3706a7b4961f5551d",
+  "parts": [
+    {
+      "file": "part-00.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-01.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-02.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-03.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-04.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-05.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-06.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-07.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-08.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-09.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-10.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-11.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-12.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-13.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-14.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-15.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-16.dat",
+      "raw_bytes": 65535,
+      "b64_chars": 87380
+    },
+    {
+      "file": "part-17.dat",
+      "raw_bytes": 57873,
+      "b64_chars": 77164
+    }
+  ]
+}
